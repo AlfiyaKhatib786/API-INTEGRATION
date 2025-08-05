@@ -21,3 +21,7 @@ For the core functionality, I wrote the logic using JavaScript, along with jQuer
 To display the current date and time, I used a JavaScript library called Moment.js. It helped format the timestamp into a human-readable format such as "August 5th 2025, 8:15:22 pm", adding a real-time feel to the app. The app also includes input validation and error handling. If a user enters an invalid city name, a message is shown to inform them that the city was not found, and the weather display section is hidden.
 
 This Weather App project was a great learning experience for working with real-time APIs and handling JSON data in a practical context. It helped me understand how to structure a complete frontend project, apply asynchronous programming concepts, and make use of third-party libraries to enhance user experience. Overall, the project demonstrates the integration of various web development technologies and tools such as HTML, CSS, JavaScript, jQuery, VS Code, and the OpenWeatherMap API. It also gave me confidence in building interactive, data-driven web applications that communicate with external services.
+
+#OUTPUT
+
+<img width="1915" height="1030" alt="Image" src="https://github.com/user-attachments/assets/0d7d2f5e-a4aa-4162-8aed-c3299e391c68" />
